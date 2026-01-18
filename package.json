@@ -1,0 +1,19 @@
+{
+  "name": "wingo-prediction-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for WinGo prediction with loss streak logic",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [],
+  "author": "RK VIP",
+  "license": "ISC"
+}
